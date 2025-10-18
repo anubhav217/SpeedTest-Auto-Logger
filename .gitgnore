@@ -1,0 +1,70 @@
+# ==============================
+# Speedtest Logger (Anubhav Majumdar)
+# Git ignore template for Speedtest/Network monitor projects
+# ==============================
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env/
+.venv/
+venv/
+env/
+*.log
+*.bak
+
+# ---- Logs and Evidence ----
+speedlogger_run.log
+logs/
+raw_logs/
+evidence/
+*.json
+*.csv
+*.db
+*.sqlite3
+*.zip
+
+# ---- PowerShell / Scripts Cache ----
+*.ps1~ 
+*.tmp
+*.bat~
+*.cmd~
+
+# ---- IDEs / Editors ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ---- OS junk ----
+Thumbs.db
+ehthumbs.db
+.DS_Store
+desktop.ini
+
+# ---- Virtual environment caches ----
+pip-wheel-metadata/
+build/
+dist/
+*.egg
+*.eggs/
+
+# ---- Credentials / API Keys ----
+*.env
+config.json
+config_private.json
+
+# ---- Compiled / Temporary Output ----
+*.out
+*.tmp
+*.bak
+*.old
+
+# ---- Windows scheduler exports ----
+*.xml
+task_schedules/

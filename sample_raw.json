@@ -1,0 +1,26 @@
+{
+  "type": "result",
+  "timestamp": "2025-10-19T00:00:00Z",
+  "ping": {
+    "jitter": 1.2,
+    "latency": 12.34
+  },
+  "download": {
+    "bandwidth": 92000000,
+    "bytes": 11500000,
+    "elapsed": 9000
+  },
+  "upload": {
+    "bandwidth": 92000000,
+    "bytes": 2100000,
+    "elapsed": 4000
+  },
+  "server": {
+    "id": "12345",
+    "name": "DemoServer",
+    "host": "demo.speedtest.net"
+  },
+  "client": {
+    "ip": "203.0.113.45"
+  }
+}

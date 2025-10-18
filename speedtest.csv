@@ -1,0 +1,9 @@
+ts_utc,download_mbps,upload_mbps,ping_ms,server,client_ip,raw_file
+2025-10-19T02:13:14.683530+05:30,11.830029,11.832881,3.14,Alliance Broadband Services Pvt Ltd,,raw_logs\speed_20251019T021314+05:30.json
+2025-10-19T02:16:55.794258+05:30,11.865314,11.835518,4.656,Alliance Broadband Services Pvt Ltd,,raw_logs\speed_20251019T021655+05:30.json
+2025-10-19T02:27:51.178355+05:30,11.878077,11.827678,3.294,RailTel Corporation of India Ltd,,raw_logs\speed_20251019T022751+05:30.json
+2025-10-19T02:36:55.422870+05:30,11.842402,11.813797,2.938,Alliance Broadband Services Pvt Ltd,,raw_logs\speed_20251019T023655+05:30.json
+2025-10-19T03:03:38.065936+05:30,11.187378,11.800894,3.688,Bhorer Alo Cable & Broadband Pvt. Ltd.,,raw_logs\speed_20251019T030338+05:30.json
+2025-10-19T03:08:16.330202+05:30,11.594181,11.8142,2.978,Alliance Broadband Services Pvt Ltd,,raw_logs\speed_20251019T030816+05:30.json
+2025-10-19T03:16:34.099428+05:30,11.863167,11.837351,3.598,RailTel Corporation of India Ltd,,raw_logs\speed_20251019T031634+05:30.json
+2025-10-19T03:39:27.002900+05:30,11.648245,11.839073,3.57,Bhorer Alo Cable & Broadband Pvt. Ltd.,,raw_logs\speed_20251019T033927+05:30.json
