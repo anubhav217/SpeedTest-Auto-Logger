@@ -19,7 +19,8 @@ Files in this bundle:
 6. Test run:
    - Open PowerShell, navigate to the folder, run: `python speedlogger.py`
 7. (Optional) Register scheduled task using the helper (run as Administrator in PowerShell):
-   - `.un_speedlogger.ps1 -RegisterTask -IntervalMinutes 30 -PythonPath "C:\Python39\python.exe"`
+   - `.
+un_speedlogger.ps1 -RegisterTask -IntervalMinutes 30 -PythonPath "C:\Python39\python.exe"`
    - This will run the script every 30 minutes.
 
 ## Quick start (Linux / macOS)
@@ -39,7 +40,7 @@ Files in this bundle:
 - Run VPN tests and iperf3 tests to corroborate shaping/peering issues.
 
 ## Grafana
-The included `grafana_dashboard_sample.json` is a minimal placeholder. For an actual Grafana dashboard you will want to push metrics to a time-series DB (InfluxDB/Prometheus) or use a plugin/CSV connector. I can help create a full Grafana + Influx ingestion pipeline if you want.
+The included `grafana_dashboard_sample.json` is a minimal placeholder. 
 
 ---
 Generated on 2025-10-18T19:47:22.093200Z
