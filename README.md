@@ -1,4 +1,4 @@
-# Speedtest Logger bundle
+# SpeedTest Auto Logger
 
 Files in this bundle:
 - `speedlogger.py` — Cross-platform Python script that runs Speedtest CLI, logs to `speedtest.db` (SQLite), `speedtest.csv`, and `raw_logs/` (JSON raw output). Sends alerts to Discord webhook when configured.
