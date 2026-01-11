@@ -38,9 +38,3 @@ un_speedlogger.ps1 -RegisterTask -IntervalMinutes 30 -PythonPath "C:\Python39\py
 - Keep raw JSON files from `raw_logs/` for timestamps and server IDs.
 - Periodically run `mtr`/`traceroute` to problem servers and keep those logs with matching timestamps.
 - Run VPN tests and iperf3 tests to corroborate shaping/peering issues.
-
-## Grafana
-The included `grafana_dashboard_sample.json` is a minimal placeholder. 
-
----
-Generated on 2025-10-18T19:47:22.093200Z
